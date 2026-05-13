@@ -92,9 +92,7 @@ Tesla P100 (16 GB). Batch size 4 fits comfortably in 16 GB at 224 x 224.
 
 ## Trained weights
 
-Trained checkpoints are not currently shipped in this repo. If you need them,
-contact the authors. When available we will publish them on Hugging Face and
-link the URLs here.
+Trained checkpoints can be accessed here: https://drive.google.com/drive/folders/1tRt5SZSNibpIC6tU9roY_KQUPiBM3rvb?usp=drive_link 
 
 ## Citation
 
