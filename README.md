@@ -99,11 +99,12 @@ Trained checkpoints can be accessed here: https://drive.google.com/drive/folders
 If you use this code, please cite:
 
 ```
-@article{tram2025,
-  title   = {TRAM: Transformer-Based Mask R-CNN Framework for Underwater
-             Object Detection in Side-Scan Sonar Data},
-  author  = {Makam, Rajini and Sundaram, Kalyana and Sundaram, Suresh},
-  journal = {Oceans},
-  year    = {2025}
+@inproceedings{Makam2025TRAM,
+  author={Makam, Rajini and Sundaram, Kalyana and Sundaram, Suresh},
+  booktitle={OCEANS 2025 Brest}, 
+  title={TRAM: Transformer-Based Mask R-CNN Framework for Underwater Object Detection in Side-Scan Sonar Data}, 
+  year={2025},
+  pages={1-6},
+  doi={10.1109/OCEANS58557.2025.11104722}
 }
 ```
