@@ -1,4 +1,4 @@
-# TRAM — Reference Implementation
+# TRAM: Transformer-Based Mask R-CNN Framework for Underwater Object Detection
 
 Reference code for **TRAM: Transformer-Based Mask R-CNN Framework for
 Underwater Object Detection in Side-Scan Sonar Data** (Makam, Sundaram, &
