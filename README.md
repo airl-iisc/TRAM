@@ -9,6 +9,7 @@ top of the framework.
 The rest of the repo (`Experiments/`, `inference/`, `datasets/`, …) contains
 the full ablation history. **Use this `final/` folder as the entry point.**
 
+
 ## Three stages, three folders
 
 The paper introduces three progressively enhanced variants. Each lives in its
@@ -104,7 +105,6 @@ If you use this code, please cite:
   booktitle={OCEANS 2025 Brest}, 
   title={TRAM: Transformer-Based Mask R-CNN Framework for Underwater Object Detection in Side-Scan Sonar Data}, 
   year={2025},
-  pages={1-6},
-  doi={10.1109/OCEANS58557.2025.11104722}
+  pages={1-6}
 }
 ```
